@@ -1,0 +1,7 @@
+[package]
+name = "day2"
+version = "0.1.0"
+authors = ["Sky Yin <sky.yin@gmail.com>"]
+
+[dependencies]
+primal = "0.2"
