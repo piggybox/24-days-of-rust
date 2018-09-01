@@ -25,6 +25,6 @@ fn main() {
             Err(_) => None,
         }
     }
-    
+
     println!("{:?}", num_divisors(2610, &sieve));
 }

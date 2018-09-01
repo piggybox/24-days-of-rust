@@ -1,0 +1,10 @@
+[package]
+name = "day1"
+version = "0.1.0"
+authors = ["Sky <sky@thelook.cn>"]
+
+[dependencies]
+getopts = "~0.2.14"
+num = "~0.1.36"
+permutohedron = "~0.2.2"
+primal = "~0.2.3"
