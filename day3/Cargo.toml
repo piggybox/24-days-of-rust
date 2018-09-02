@@ -5,3 +5,4 @@ authors = ["Sky Yin <sky.yin@gmail.com>"]
 
 [dependencies]
 csv = "0.15.0"
+rustc-serialize = "0.3.24"
